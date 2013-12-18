@@ -1,0 +1,5 @@
+1. Arduino IDE 를 열어서 source를 불러온다.
+
+2. source를 Arduino board 에 업로드 한다.
+
+3. IDE의 시리얼 모니터를 이용하여 시리얼 통신을 한다.
